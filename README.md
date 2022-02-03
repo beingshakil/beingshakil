@@ -1,6 +1,3 @@
-
-![Programmer]
-
 #### Hi there, This is Shakil
 #### I'm a Programmer
 
