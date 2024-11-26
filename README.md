@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shakil15-14472@diu.edu.bd**
 
-- <a href="https://sites.google.com/diu.edu.bd/md-shakil-hossen?usp=sharing" target="_blank">My Portfolio</a> </p> <h3 align="left">
+- About me <a href="https://sites.google.com/diu.edu.bd/md-shakil-hossen?usp=sharing" target="_blank">My Portfolio</a> </p> <h3 align="left">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
