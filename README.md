@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Node JS, Express JS**
 
-- 📫 How to reach me **shakil15-14472@diu.edu.bd**
+- 📫 How to reach me **being.shakill@gmail.com**
 
 - About me <a href="https://sites.google.com/diu.edu.bd/md-shakil-hossen?usp=sharing" target="_blank">My Portfolio</a> </p> <h3 align="left">
 
