@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shakil-hossen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shakil-hossen/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/shakiil.hossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shakiil.hossen" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sha._.kill/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sha._.kill/" height="30" width="40" /></a>
+<a href="https://instagram.com/https:https://www.instagram.com/feel._.shakeel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sha._.kill/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/beingshakil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/beingshakil/" height="30" width="40" /></a>
 </p>
 
