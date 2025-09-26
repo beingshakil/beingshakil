@@ -1,10 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 <h1 align="center">Hi There👋, This is Shakil</h1>
-<h3 align="center">Dynamic and results-driven CSE graduate with a strong academic record and a passion for technology-driven problem solving.
+<h3 align="left">Dynamic and results-driven CSE graduate with a strong academic record and a passion for technology-driven problem solving.
 Proficient in Python with hands-on experience in automation, data extraction, and data analysis. Skilled in SEO strategies to
-optimize digital presence and support data-driven decision-making. Interested in AI, machine learning, and using data to create
-innovative solutions in a dynamic IT environment</h3>
+optimize digital presence and support data-driven decision-making.</h3>
 
 - 🔭 I’m currently working on **Next JS**
 
