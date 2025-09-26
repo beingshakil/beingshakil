@@ -1,7 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 <h1 align="center">Hi There👋, This is Shakil</h1>
-<h3 align="center">I'm a dedicated individual with a strong ethical focus and a commitment to delivering excellent outcomes. My career goal is to become an IT entrepreneur, driven by my passion for technology.</h3>
+<h3 align="center">Dynamic and results-driven CSE graduate with a strong academic record and a passion for technology-driven problem solving.
+Proficient in Python with hands-on experience in automation, data extraction, and data analysis. Skilled in SEO strategies to
+optimize digital presence and support data-driven decision-making. Interested in AI, machine learning, and using data to create
+innovative solutions in a dynamic IT environment</h3>
 
 - 🔭 I’m currently working on **Next JS**
 
