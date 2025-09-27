@@ -5,9 +5,7 @@
 Proficient in Python with hands-on experience in automation, data extraction, and data analysis. Skilled in SEO strategies to
 optimize digital presence and support data-driven decision-making.</h3>
 
-- 🔭 I’m currently working on **Next JS**
-
-- 🌱 I’m currently learning **React, Node JS, Express JS**
+- 🔭 I’m currently working on **Data Analysis**
 
 - 📫 How to reach me **being.shakill@gmail.com**
 
