@@ -19,7 +19,7 @@ Dynamic and results-driven CSE graduate with a strong academic record and a pass
 
 - 🎯 **Currently working on:** Data Analysis, AI Automation, and SEO  
 - 📫 **Email:** [being.shakill@gmail.com](mailto:being.shakill@gmail.com)  
-- 🌐 **Website:** [shakil.xyz](https://shakil-portfolio-silk.vercel.app/)
+- 🌐 **Website:** [beingshakil.xyz](https://shakil-portfolio-silk.vercel.app/)
 - 🗂️ **Portfolio:** [View Portfolio](https://sites.google.com/diu.edu.bd/md-shakil-hossen?usp=sharing)  
 
 ---
