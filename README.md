@@ -8,11 +8,10 @@ Dynamic and results-driven CSE graduate with a strong academic record and a pass
 
 ## 🚀 Current Role
 
-**SEO & AI Automation at [IRD Foundation](https://irdfoundation.com/)**  
-- Automated workflow processes with Python and JavaScript. Streamlined data processing and reduced manual tasks by developing custom automation scripts, and accelerating data-driven decisions.
+**SEO & AI Automation at [Musemind](https://musemind.agency/)**  
+- Automated workflow processes with Python and JavaScript. Streamlined data processing and reduced manual tasks by developing custom automation scripts, improving team efficiency, and accelerating data-driven decisions.
 - Increased website traffic and search rankings by 5x through targeted keyword and competitor research, implementation of Technical SEO strategies, and data optimization using Ahrefs, SEMrush, and Google Search Console.
-- Transformed raw data into actionable insights by building automated ETL workflows with Pandas and NumPy, improving data accuracy and usability
-- Developed interactive Power BI and Excel dashboards to visualize key trends, improving data accessibility and decision-making speed across teams.
+- Transformed raw data into actionable insights by building automated ETL workflows with Pandas and NumPy, improving data accuracy and usability.
 ---
 
 ## 🧑‍💻 About Me
