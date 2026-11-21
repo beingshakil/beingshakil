@@ -9,9 +9,13 @@ Dynamic and results-driven CSE graduate with a strong academic record and a pass
 ## 🚀 Current Role
 
 **SEO/GEO & Web Intelligence at [Musemind](https://wwww.musemind.com/)**  
-- Automated workflow processes with Python and JavaScript. Streamlined data processing and reduced manual tasks by developing custom automation scripts, improving team efficiency, and accelerating data-driven decisions.
-- Increased website traffic and search rankings by 5x through targeted keyword and competitor research, implementation of Technical SEO strategies, and data optimization using Ahrefs, SEMrush, and Google Search Console.
-- Transformed raw data into actionable insights by building automated ETL workflows with Pandas and NumPy, improving data accuracy and usability.
+- Conducted in-depth competitor research and SERP analysis to identify keyword gaps, backlink opportunities, and content benchmarks for data-driven SEO strategies and roadmaps.
+- Automated technical SEO audits and log file analysis with Python scripts and Screaming Frog to detect crawl-budget waste, 404s, redirect loops, and indexing issues, improving site health and Core Web Vitals.
+- Pulled and analyzed data from Google Analytics and Search Console to find SEO issues and spot growth opportunities.
+- Set up automated SEO reports so the team could track keyword rankings, site health, and traffic without manual reporting.
+- Built web tools, Chrome extensions, and Python scripts for data analysis to streamline tasks and improve decision-making efficiency.
+- Connected third-party APIs and AI services into existing workflows to automate repetitive tasks without breaking current processes.
+- Applied prompt engineering techniques to improve AI outputs for SEO, content, and data tasks, saving time and reducing back-and-forth.
 ---
 
 ## 🧑‍💻 About Me
